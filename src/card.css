@@ -1,0 +1,20 @@
+/* HorizontalCard.css */
+
+/* Style for the Paper component */
+.PaperContainer {
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the image */
+.CardImage {
+  width: 50px;
+  margin-right: 10px;
+}
+
+/* Style for the text content */
+.CardContent {
+  margin-left: 10px;
+}
+
+/* Add more styles as needed */

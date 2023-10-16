@@ -1,0 +1,17 @@
+.sidebar {
+  height: "100vh";
+  background-color: #00008b;
+  color: #fff;
+}
+
+.sidebar .MuiListItem-root {
+  padding: 12px 24px;
+}
+
+.sidebar .MuiListItemIcon-root {
+  color: #fff;
+}
+
+.sidebar .MuiTypography-root {
+  color: #fff;
+}

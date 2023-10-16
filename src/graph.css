@@ -1,0 +1,7 @@
+.bar-chart-bar {
+  fill: #add8e6; /* Default color for bars (light purple) */
+}
+
+.bar-chart-bar.highlighted {
+  fill: #bf40bf; /* Highlighted bar color (dark purple) */
+}

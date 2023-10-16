@@ -1,0 +1,34 @@
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+
+.custom-table th {
+  /* background-color: #f0f0f0; */
+  text-align: left;
+  padding: 10px;
+  border-top: none;
+}
+
+.custom-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-top: none;
+}
+
+.custom-table td img {
+  width: 40px;
+  height: 40px;
+  border-radius: 20%;
+}
+
+/* table.css */
+.custom-table {
+  border-collapse: collapse;
+}
+
+.custom-table th,
+.custom-table td {
+  border: none;
+}
